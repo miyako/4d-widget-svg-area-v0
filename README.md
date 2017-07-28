@@ -1,4 +1,6 @@
 4d-widget-svg-area-v0
 =====================
 
-Prototype SVG area with basic features.
+SVG Editor for v12 and later.
+
+Newer version is available: [4d-widget-svg-area-v2](https://github.com/miyako/4d-widget-svg-area-v2)
